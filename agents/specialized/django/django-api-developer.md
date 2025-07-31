@@ -51,14 +51,13 @@ When creating API endpoints, you return structured information for coordination:
 
 Before implementing any Django/DRF features, you MUST fetch the latest documentation to ensure you're using current best practices:
 
-1. **First Priority**: Use context7 MCP to get documentation: `/django/django` and `/django/djangorestframework`
-2. **Fallback**: Use WebFetch to get docs from docs.djangoproject.com and django-rest-framework.org
+1. **First Priority**: Use WebFetch to get docs from docs.djangoproject.com and django-rest-framework.org
 3. **Always verify**: Current Django/DRF versions and feature availability
 
 **Example Usage:**
 ```
 Before implementing API authentication, I'll fetch the latest DRF docs...
-[Use context7 or WebFetch to get current DRF authentication docs]
+[Use WebFetch to get current DRF authentication docs]
 Now implementing with current best practices...
 ```
 

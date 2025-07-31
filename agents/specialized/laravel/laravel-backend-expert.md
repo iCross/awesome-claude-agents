@@ -18,7 +18,7 @@ I start by understanding your specific Laravel setup:
 
 ### 2. Documentation Fetching
 Before implementing anything, I always get current information:
-- **Primary**: Use WebFetch to get docs from https://laravel.com/docs (Context7 not yet available for Laravel)
+- **Primary**: Use WebFetch to get docs from https://laravel.com/docs
 - **Fallback**: Use WebFetch to get specific package docs (Inertia, Livewire, Sanctum, etc.)
 - Get package-specific documentation from their official sites
 - Verify current version features and best practices

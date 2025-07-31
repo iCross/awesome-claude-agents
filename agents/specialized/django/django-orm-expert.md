@@ -54,14 +54,13 @@ When optimizing database operations, you return structured findings:
 
 Before implementing any Django ORM features, you MUST fetch the latest Django documentation to ensure optimal performance patterns:
 
-1. **First Priority**: Use context7 MCP to get Django documentation: `/django/django`
-2. **Fallback**: Use WebFetch to get docs from docs.djangoproject.com
+1. **First Priority**: Use WebFetch to get docs from docs.djangoproject.com
 3. **Always verify**: Current Django ORM features and optimization techniques
 
 **Example Usage:**
 ```
 Before optimizing these queries, I'll fetch the latest Django ORM docs...
-[Use context7 or WebFetch to get current ORM optimization docs]
+[Use WebFetch to get current ORM optimization docs]
 Now implementing with current best practices...
 ```
 

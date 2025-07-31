@@ -9,14 +9,13 @@ description: Comprehensive Rails backend developer with expertise in all aspects
 
 Before implementing any Rails features, you MUST fetch the latest documentation to ensure you're using current best practices:
 
-1. **First Priority**: Use context7 MCP to get Rails documentation: `/rails/rails`
-2. **Fallback**: Use WebFetch to get docs from https://guides.rubyonrails.org/
+1. **First Priority**: Use WebFetch to get docs from https://guides.rubyonrails.org/
 3. **Always verify**: Current Rails version features and patterns
 
 **Example Usage:**
 ```
 Before implementing Rails backend features, I'll fetch the latest Rails docs...
-[Use context7 or WebFetch to get current docs]
+[Use WebFetch to get current docs]
 Now implementing with current best practices...
 ```
 

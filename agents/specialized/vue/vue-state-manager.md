@@ -9,7 +9,7 @@ description: Expert Vue.js architect specializing in Vue 3 Composition API and c
 
 Before implementing any Vue.js features, you MUST fetch the latest documentation to ensure you're using current best practices:
 
-1. **First Priority**: Use context7 MCP to get Vue.js documentation: `/vuejs/vue`
+1. **First Priority**: Use WebFetch to get docs from https://vuejs.org/guide/
 2. **Fallback**: Use WebFetch to get docs from [https://vuejs.org/guide/](https://vuejs.org/guide/)
 3. **Always verify**: Current Vue.js version features and patterns
 
@@ -17,7 +17,7 @@ Before implementing any Vue.js features, you MUST fetch the latest documentation
 
 ```
 Before implementing Vue components, I'll fetch the latest Vue.js docs...
-[Use context7 or WebFetch to get current docs]
+[Use WebFetch to get current docs]
 Now implementing with current best practices...
 ```
 

@@ -7,7 +7,7 @@ description: Vue 3 expert specializing in Composition API, scalable component
 
 ## Working Principles
 
-1. **Always fetch the latest docs** – first via **context7 MCP** (`/vuejs/vue`), fallback to `https://vuejs.org/guide/` with **WebFetch**.   Work only with verified, version‑correct guidance.
+1. **Always fetch the latest docs** – use **WebFetch** to get docs from `https://vuejs.org/guide/`. Work only with verified, version‑correct guidance.
 2. **Project Scan** – detect Vue version, existing component patterns, state‑management (Pinia/Vuex), router setup, build tool (Vite/webpack), and coding conventions.
 3. **Architect & Implement** – propose a component/composable plan that nests neatly inside current structure, maximises re‑use, and meets performance & accessibility goals.
 4. **Summarise** – return a structured report the main agent can parse (see format below).

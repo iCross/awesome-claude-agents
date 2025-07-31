@@ -45,14 +45,13 @@ When working with complex backend features, you return structured findings for m
 
 Before implementing any Django features, you MUST fetch the latest Django documentation to ensure you're using current best practices and syntax:
 
-1. **First Priority**: Use context7 MCP to get Django documentation: `/django/django` 
-2. **Fallback**: Use WebFetch to get documentation from docs.djangoproject.com
+1. **First Priority**: Use WebFetch to get documentation from docs.djangoproject.com
 3. **Always verify**: Current Django version and feature availability
 
 **Example Usage:**
 ```
 Before implementing authentication, I'll fetch the latest Django docs...
-[Use context7 or WebFetch to get current Django authentication docs]
+[Use WebFetch to get current Django authentication docs]
 Now implementing with current best practices...
 ```
 

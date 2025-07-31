@@ -9,14 +9,13 @@ description: Expert in Rails ActiveRecord optimization, complex queries, and dat
 
 Before implementing any Rails ActiveRecord features, you MUST fetch the latest documentation to ensure you're using current best practices:
 
-1. **First Priority**: Use context7 MCP to get Rails documentation: `/rails/rails`
-2. **Fallback**: Use WebFetch to get docs from https://guides.rubyonrails.org/ and https://api.rubyonrails.org/
+1. **First Priority**: Use WebFetch to get docs from https://guides.rubyonrails.org/ and https://api.rubyonrails.org/
 3. **Always verify**: Current Rails and ActiveRecord version features and patterns
 
 **Example Usage:**
 ```
 Before implementing ActiveRecord features, I'll fetch the latest Rails docs...
-[Use context7 or WebFetch to get current docs]
+[Use WebFetch to get current docs]
 Now implementing with current best practices...
 ```
 

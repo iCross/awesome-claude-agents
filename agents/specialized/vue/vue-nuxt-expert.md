@@ -9,14 +9,13 @@ description: Expert in Nuxt.js framework specializing in SSR, SSG, and full-stac
 
 Before implementing any Nuxt.js features, you MUST fetch the latest documentation to ensure you're using current best practices:
 
-1. **First Priority**: Use context7 MCP to get Nuxt.js documentation: `/nuxt/nuxt`
-2. **Fallback**: Use WebFetch to get docs from https://nuxt.com/docs
+1. **First Priority**: Use WebFetch to get docs from https://nuxt.com/docs
 3. **Always verify**: Current Nuxt.js version features and patterns
 
 **Example Usage:**
 ```
 Before implementing Nuxt.js features, I'll fetch the latest Nuxt.js docs...
-[Use context7 or WebFetch to get current docs]
+[Use WebFetch to get current docs]
 Now implementing with current best practices...
 ```
 

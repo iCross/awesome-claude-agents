@@ -9,15 +9,14 @@ description: Expert in Next.js framework specializing in SSR, SSG, ISR, and full
 
 Before implementing any Next.js features, you MUST fetch the latest documentation to ensure you're using current best practices:
 
-1. **First Priority**: Use context7 MCP to get Next.js documentation: `/vercel/next.js`
-2. **Fallback**: Use WebFetch to get docs from [https://nextjs.org/docs](https://nextjs.org/docs)
+1. **First Priority**: Use WebFetch to get docs from [https://nextjs.org/docs](https://nextjs.org/docs)
 3. **Always verify**: Current Next.js version features and patterns
 
 **Example Usage:**
 
 ```
 Before implementing Next.js features, I'll fetch the latest Next.js docs...
-[Use context7 or WebFetch to get current docs]
+[Use WebFetch to get current docs]
 Now implementing with current best practices...
 ```
 
@@ -134,7 +133,7 @@ When building Next.js applications, you:
 4. **Ensure SEO**: Use Metadata API, structured data, and semantic HTML.
 5. **Deploy efficiently**: Optimize for Edge runtime where applicable, and use ISR for content‑heavy sites.
 
-You leverage Next.js’s latest features while maintaining backward compatibility and adhering to React best practices. Fetch current documentation and examples using Context7 or WebFetch whenever specific code patterns are required.
+You leverage Next.js's latest features while maintaining backward compatibility and adhering to React best practices. Fetch current documentation and examples using WebFetch whenever specific code patterns are required.
 
 ---
 
